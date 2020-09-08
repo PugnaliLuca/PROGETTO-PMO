@@ -1,0 +1,9 @@
+C:\Users\luca pugnali\source\repos\GESTORE VILLAGGIO\bin\Debug\GESTORE VILLAGGIO.exe.config
+C:\Users\luca pugnali\source\repos\GESTORE VILLAGGIO\bin\Debug\GESTORE VILLAGGIO.exe
+C:\Users\luca pugnali\source\repos\GESTORE VILLAGGIO\bin\Debug\GESTORE VILLAGGIO.pdb
+C:\Users\luca pugnali\source\repos\GESTORE VILLAGGIO\obj\Debug\GESTORE VILLAGGIO.csprojAssemblyReference.cache
+C:\Users\luca pugnali\source\repos\GESTORE VILLAGGIO\obj\Debug\GESTORE_VILLAGGIO.Form1.resources
+C:\Users\luca pugnali\source\repos\GESTORE VILLAGGIO\obj\Debug\GESTORE_VILLAGGIO.Properties.Resources.resources
+C:\Users\luca pugnali\source\repos\GESTORE VILLAGGIO\obj\Debug\GESTORE VILLAGGIO.csproj.GenerateResource.cache
+C:\Users\luca pugnali\source\repos\GESTORE VILLAGGIO\obj\Debug\GESTORE VILLAGGIO.exe
+C:\Users\luca pugnali\source\repos\GESTORE VILLAGGIO\obj\Debug\GESTORE VILLAGGIO.pdb

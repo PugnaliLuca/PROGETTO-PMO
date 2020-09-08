@@ -1,0 +1,34 @@
+C:\Users\luca pugnali\source\repos\GESTORE VILLAGGIO\bin\Debug\GESTORE VILLAGGIO.exe.config
+C:\Users\luca pugnali\source\repos\GESTORE VILLAGGIO\bin\Debug\GESTORE VILLAGGIO.exe
+C:\Users\luca pugnali\source\repos\GESTORE VILLAGGIO\bin\Debug\GESTORE VILLAGGIO.pdb
+C:\Users\luca pugnali\source\repos\GESTORE VILLAGGIO\obj\Debug\GESTORE_VILLAGGIO.Form1.resources
+C:\Users\luca pugnali\source\repos\GESTORE VILLAGGIO\obj\Debug\GESTORE_VILLAGGIO.Properties.Resources.resources
+C:\Users\luca pugnali\source\repos\GESTORE VILLAGGIO\obj\Debug\GESTORE_VILLAGGIO.UCAddBookings.resources
+C:\Users\luca pugnali\source\repos\GESTORE VILLAGGIO\obj\Debug\GESTORE_VILLAGGIO.UCSeeCalendar.resources
+C:\Users\luca pugnali\source\repos\GESTORE VILLAGGIO\obj\Debug\GESTORE_VILLAGGIO.UCDeleteBookings.resources
+C:\Users\luca pugnali\source\repos\GESTORE VILLAGGIO\obj\Debug\CAMPING BOOKINGS MANAGE.csproj.GenerateResource.cache
+C:\Users\luca pugnali\source\repos\GESTORE VILLAGGIO\obj\Debug\GESTORE VILLAGGIO.exe
+C:\Users\luca pugnali\source\repos\GESTORE VILLAGGIO\obj\Debug\GESTORE VILLAGGIO.pdb
+C:\Users\luca pugnali\source\repos\GESTORE VILLAGGIO\obj\Debug\CAMPING BOOKINGS MANAGE.csprojAssemblyReference.cache
+C:\Users\luca pugnali\source\repos\GESTORE VILLAGGIO\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\luca pugnali\source\repos\GESTORE VILLAGGIO\bin\Debug\Newtonsoft.Json.dll
+C:\Users\luca pugnali\source\repos\GESTORE VILLAGGIO\bin\Debug\System.Buffers.dll
+C:\Users\luca pugnali\source\repos\GESTORE VILLAGGIO\bin\Debug\System.Memory.dll
+C:\Users\luca pugnali\source\repos\GESTORE VILLAGGIO\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\luca pugnali\source\repos\GESTORE VILLAGGIO\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\luca pugnali\source\repos\GESTORE VILLAGGIO\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\luca pugnali\source\repos\GESTORE VILLAGGIO\bin\Debug\System.Text.Json.dll
+C:\Users\luca pugnali\source\repos\GESTORE VILLAGGIO\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\luca pugnali\source\repos\GESTORE VILLAGGIO\bin\Debug\System.ValueTuple.dll
+C:\Users\luca pugnali\source\repos\GESTORE VILLAGGIO\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\luca pugnali\source\repos\GESTORE VILLAGGIO\bin\Debug\Newtonsoft.Json.xml
+C:\Users\luca pugnali\source\repos\GESTORE VILLAGGIO\bin\Debug\System.Buffers.xml
+C:\Users\luca pugnali\source\repos\GESTORE VILLAGGIO\bin\Debug\System.Memory.xml
+C:\Users\luca pugnali\source\repos\GESTORE VILLAGGIO\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\luca pugnali\source\repos\GESTORE VILLAGGIO\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\luca pugnali\source\repos\GESTORE VILLAGGIO\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\luca pugnali\source\repos\GESTORE VILLAGGIO\bin\Debug\System.Text.Json.xml
+C:\Users\luca pugnali\source\repos\GESTORE VILLAGGIO\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\luca pugnali\source\repos\GESTORE VILLAGGIO\bin\Debug\System.ValueTuple.xml
+C:\Users\luca pugnali\source\repos\GESTORE VILLAGGIO\obj\Debug\CAMPING BOOKINGS MANAGE.csproj.CopyComplete
+C:\Users\luca pugnali\source\repos\GESTORE VILLAGGIO\bin\Debug\Json.Net.dll
